@@ -47,6 +47,6 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: Obson955/devops_demo:latest
+          tags: Obson955/hw8_devops:latest
 
           # Add other relevant build parameters here
